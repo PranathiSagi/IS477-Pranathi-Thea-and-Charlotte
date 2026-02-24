@@ -1,5 +1,6 @@
 # IS477-Sagi & Kidwell & Shafer
 Our team for the IS 477 Project is Pranathi Sagi, the owner of the repository, Thea Kidwell, and Charlotte Shafer.
+
 Overview: Describe the overall goal of your project and your planned approach to achieve it. Explain what you aim to accomplish and outline the main steps or methods you will use to execute the project (max 250 words).
 
 Team: Clearly define team member roles and responsibilities.
