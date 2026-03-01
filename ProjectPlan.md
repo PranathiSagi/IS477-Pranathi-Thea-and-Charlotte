@@ -1,9 +1,13 @@
 # IS477-Sagi & Kidwell & Shafer
+
 Our team for the IS 477 Project is Pranathi Sagi, the owner of the repository, Thea Kidwell, and Charlotte Shafer.
 
-Overview: Describe the overall goal of your project and your planned approach to achieve it. Explain what you aim to accomplish and outline the main steps or methods you will use to execute the project (max 250 words).
+**Overview:** In the digital age, media is becoming more varied between both digital media and traditional, physical objects. There is more digital media available than ever before. Due to this increase in digital media, art is easier to create and distribute. This poses an interesting opportunity for museums to incorporate digital media into their catalogues, blending traditional art curation methods with contemporary data archival practices. Our overall goal for this project is to analyze the historical and current practices of the National Art Museum to gain a better understanding of the trends in art curation practices in the United States. We will integrate several datasets provided by the National Art Museum and analyze them using SQL.
 
-Team: Clearly define team member roles and responsibilities.
+**Team:** The three of us worked together to draft a project plan and decide on research questions. Once we chose the dataset we wanted to use, we divided it among each group member equally and decided our responsibilities would be to analyze the CSV files and clean them up for easier use when necessary. We have each made the commitment to each other that we will meet up multiple times outside of class to work on this project together. 
+
+Pranathi is focusing on the Objects CSV and text data, specifically looking at each of the artworks, their publication dates in the museum, and what specific collections they come from. This information about each of the unique artworks being represented in the gallery, in addition to the collections they belong to, helps us get an in-depth understanding of ways we can answer our research questions when connecting older and modern works of art in this museum. This also helps us answer our first research question when it comes to analyzing the relationship between these artworks that are digital compared to traditional, to help us answer the discrepancies between both of these. Thea will focus on the constituents and objects_constituents files. Charlotte will focus on the Media_items and Media_relationships files, working with Pranathi to integrate data on media objects with the overall Objects dataset.
+
 
 Research or Business Question(s): What is/are the question(s) you intend to address? These could be research questions, business questions, or analytical questions you want to answer through data analysis.
 
